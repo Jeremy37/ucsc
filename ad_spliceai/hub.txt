@@ -1,0 +1,5 @@
+hub AD_SpliceAI
+shortLabel AD_SpliceAI
+longLabel AD_SpliceAI
+genomesFile genomes.txt
+email jeremy37@gmail.com

@@ -1,0 +1,23 @@
+track AD_spliceAI_maxAcceptorGain
+bigDataUrl https://drive.google.com/file/d/18IAQsk_WO1IOxs1Au8Q5eEKw5DQQkiwF/view
+shortLabel spliceAI_maxAG
+longLabel AD_spliceAI_maxAcceptorGain
+type bigWig
+
+track AD_spliceAI_maxAcceptorLoss
+bigDataUrl https://drive.google.com/file/d/1vpGspyA4v_iaIXubkmIRgYz7sVdZLxcW/view
+shortLabel spliceAI_maxAL
+longLabel AD_spliceAI_maxAcceptorLoss
+type bigWig
+
+track AD_spliceAI_maxDonorGain
+bigDataUrl https://drive.google.com/file/d/1AtHSqhhcpfTn_Pkw7lM_lFYnkxhQNO9X/view
+shortLabel spliceAI_maxDG
+longLabel AD_spliceAI_maxDonorGain
+type bigWig
+
+track AD_spliceAI_maxDonorLoss
+bigDataUrl https://drive.google.com/file/d/1ARtsraZt_v_WxYRR3WaljSAmBYI6tuSf/view
+shortLabel spliceAI_maxDL
+longLabel AD_spliceAI_maxDonorLoss
+type bigWig
